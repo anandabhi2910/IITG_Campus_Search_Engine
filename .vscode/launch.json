@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/abhishekanand/Desktop/Projects/search_engine/src",
+      "program": "/Users/abhishekanand/Desktop/Projects/search_engine/src/build/Debug/outDebug"
+    }
+  ]
+}

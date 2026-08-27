@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Oracle at IIT Guwahati
+BODY: Company: Oracle. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Rohan Dayal (Roll: 244101039, CPI: 9, CTC: 61.8 LPA, Role: SDE).

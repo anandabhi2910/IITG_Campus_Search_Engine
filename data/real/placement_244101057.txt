@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Soumajit Roy - Texas Instruments (SDE)
+BODY: Roll Number: 244101057. Name: Soumajit Roy. CPI: 9.56. Company: Texas Instruments. CTC: 43 LPA. Base: 22.25 LPA. Placement Status: PPO. Role: SDE. Batch: M.Tech CSE 2024-2026. IIT Guwahati.

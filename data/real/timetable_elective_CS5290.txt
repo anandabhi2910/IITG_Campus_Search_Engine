@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5290 Memory-centric Computing Architectures (Elective)
+BODY: Course Code: CS5290. Course Name: Memory-centric Computing Architectures. Instructor: Phrangboklang Lyngton Thangkhiew. Class Slot: A1 (Monday 4:00-4:55, Tuesday 3:00-3:55, Wednesday 3:00-3:55, Thursday 2:00-2:55). Classroom: 5405. Eligibility: 3rd year+. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

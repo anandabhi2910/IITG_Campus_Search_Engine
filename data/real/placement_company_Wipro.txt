@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Wipro at IIT Guwahati
+BODY: Company: Wipro. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Shubham Nilesh Kannaujiya (Roll: 244101054, CPI: 6.67, CTC: 12 LPA, Role: SDE); Tanmay Chokhanand Wankhede (Roll: 244101058, CPI: 7.44, CTC: 12 LPA, Role: SDE).

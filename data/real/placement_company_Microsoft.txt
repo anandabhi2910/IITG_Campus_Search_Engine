@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Microsoft at IIT Guwahati
+BODY: Company: Microsoft. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 3. Students: Hemanth Prakash Simhadri (Roll: 244101021, CPI: 9.33, CTC: 67 LPA, Role: AI/ML); Sagar Nishad (Roll: 244101044, CPI: 8.33, CTC: 67 LPA, Role: AI/ML); Shashank Aggarwal (Roll: 244101050, CPI: 8.33, CTC: 67.5 LPA, Role: AI/ML).

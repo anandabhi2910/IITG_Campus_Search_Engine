@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Carousell Group
+BODY: Company: Carousell Group. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 9. Roles and deadlines: Backend (deadline: 06/11/2025); Frontend/Web (deadline: 06/11/2025); Android (deadline: 06/11/2025); iOS (deadline: 06/11/2025); Data Analyst (deadline: 06/11/2025); Data Science (deadline: 06/11/2025); Business Intelligence (deadline: 06/11/2025); Devops/Infra (deadline: 06/11/2025); Testing (deadline: 06/11/2025).

@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - VISA at IIT Guwahati
+BODY: Company: VISA. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Abhilash Tellabiyyam (Roll: 244101060, CPI: 8.11, CTC: 41.5 LPA, Role: SDE).

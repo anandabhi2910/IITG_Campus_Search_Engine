@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - LTIMindtree at IIT Guwahati
+BODY: Company: LTIMindtree. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Vaibhav Wankar (Roll: 244101061, CPI: 7.11, CTC: 13 LPA, Role: SDE).

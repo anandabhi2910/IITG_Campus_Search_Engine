@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS1115 Discrete Mathematics - BTech CSE Year 1
+BODY: Course Code: CS1115. Course Name: Discrete Mathematics. Instructor: Khushraj Madnani. Class Slot: E (Tuesday 7:55-8:50, Wednesday 9:00-9:55, Thursday 10:00-10:55). Exam Slot: A1. Classroom: 5405. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

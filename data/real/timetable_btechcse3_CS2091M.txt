@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2091M Data Structures and Algorithms - BTech CSE Sem 3
+BODY: Course Code: CS2091M. Course Name: Data Structures and Algorithms. Structure: 3-0-0-6. Instructor: S V Rao. Class Slot: F (Monday 12:00-12:55, Tuesday 12:00-12:55, Wednesday 12:00-12:55, Thursday -, Friday 12:00-12:55). Exam Slot: F. Classroom: 5101. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

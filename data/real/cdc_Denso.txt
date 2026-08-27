@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Denso
+BODY: Company: Denso. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 5. Roles and deadlines: In-Vehicle Network Software Engineer (New Graduate / Entry-Level) (deadline: 13/10/2025); Next Generation automotive SoC Research and Development (deadline: 13/10/2025); Edge AI & IoT Platform Engineer/Software Engineer (deadline: 13/10/2025); SDV Platform Software Engineer (deadline: 13/10/2025); Software Engineer in AI R&D and Applied Technologies (deadline: 13/10/2025).

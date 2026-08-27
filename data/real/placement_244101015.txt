@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Devansh Upadhyay - SRIN (SDE)
+BODY: Roll Number: 244101015. Name: Devansh Upadhyay. CPI: 8.78. Company: SRIN. CTC: 28.5 LPA. Base: 14.5 LPA. Placement Status: PPO. Role: SDE. Batch: M.Tech CSE 2024-2026. IIT Guwahati.

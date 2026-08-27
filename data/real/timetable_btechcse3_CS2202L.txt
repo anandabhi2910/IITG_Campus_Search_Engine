@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2202L Hardware Lab - BTech CSE Sem 3
+BODY: Course Code: CS2202L. Course Name: Hardware Lab. Structure: 0-1-3-5. Instructor: Lokesh Sidhu. Class Slot: D (Wednesday) (D (Wednesday)). Exam Slot: AL2. Classroom: 5101. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

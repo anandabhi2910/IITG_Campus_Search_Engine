@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS3103 Computer Networks - BTech CSE Sem 5
+BODY: Course Code: CS3103. Course Name: Computer Networks. Structure: 3-0-0-6. Instructor: Sukumar Nandi. Class Slot: B1 (Monday 3:00-3:55, Wednesday -, Thursday -, Friday 4:00-4:55). Exam Slot: B1. Classroom: 5G4. Programme: BTech CSE 5th Semester. Semester: July-November 2026. IIT Guwahati.

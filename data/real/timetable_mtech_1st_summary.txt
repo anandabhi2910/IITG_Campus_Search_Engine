@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: M.Tech CSE 1st Semester Timetable Summary
+BODY: M.Tech CSE 1st Semester courses July-November 2026 at IIT Guwahati. CS5001 Design and Analysis of Algorithms by Sushanta Karmakar slot B room 5G4. CS5002L Data Structures Lab by R Inkulu slot ML5 Friday lab room 5101. CS5003 Mathematics for Computer Science by P Bhaduri slot A room 5403. Elective slots available: Elective 1 and Elective 2.

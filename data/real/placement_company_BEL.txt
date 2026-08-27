@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - BEL at IIT Guwahati
+BODY: Company: BEL. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 4. Students: Akshatkumar Pareshkumar Gajjar (Roll: 244101003, CPI: 8.22, CTC: 13.5 LPA, Role: SDE); Chirag Gajbhiye (Roll: 244101012, CPI: , CTC: 13.5 LPA, Role: SDE); Lavkush Pal (Roll: 244101023, CPI: 7.56, CTC: 13.5 LPA, Role: MRS); Vishnu Vardhan G (Roll: 244101066, CPI: 7.94, CTC: 13.53 LPA, Role: MRS).

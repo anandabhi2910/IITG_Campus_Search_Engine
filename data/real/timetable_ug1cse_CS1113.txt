@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS1113 Introduction to Programming - BTech CSE Year 1
+BODY: Course Code: CS1113. Course Name: Introduction to Programming. Instructor: Deepanjan Kesh. Class Slot: A (Monday 7:55-8:50, Tuesday 9:00-9:55, Wednesday 10:00-10:55, Thursday 11:00-11:55). Exam Slot: D1. Classroom: 5405. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

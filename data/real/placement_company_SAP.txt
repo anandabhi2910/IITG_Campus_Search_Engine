@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - SAP at IIT Guwahati
+BODY: Company: SAP. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 3. Students: Paras Pandey (Roll: 244101030, CPI: 7.56, CTC: 41.5 LPA, Role: SDE); Parvigari Sai Kiran Chary (Roll: 244101031, CPI: 8.11, CTC: 41.5 LPA, Role: SDE); Somenath Maji (Roll: 244101056, CPI: 8.22, CTC: 41.5 LPA, Role: SDE).

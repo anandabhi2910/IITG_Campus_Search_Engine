@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Nutanix at IIT Guwahati
+BODY: Company: Nutanix. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Ahbar Ahad Siddiqui (Roll: 244101002, CPI: 8.44, CTC: 57 LPA, Role: SDE).

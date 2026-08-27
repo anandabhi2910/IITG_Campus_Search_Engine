@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Pegasystems
+BODY: Company: Pegasystems. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 6. Roles and deadlines: Software Engineer Intern (deadline: 18/12/2025); Software Engineer Intern 2 (deadline: 18/12/2025); AI/ML Intern (deadline: 03/12/2025); Product Management Intern (deadline: 20/10/2025); Software Engineer Intern (deadline: 20/10/2025); Software Engineer UX Engineering Intern (deadline: 20/10/2025).

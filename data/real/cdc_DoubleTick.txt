@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - DoubleTick
+BODY: Company: DoubleTick. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 4. Roles and deadlines: Frontend Engineer - SDE 1 (deadline: 25/11/2025); Backend Developer - SDE 1 (deadline: 25/11/2025); Backend Developer - SDE 2 (deadline: 25/11/2025); Frontend Developer - SDE 2 (deadline: 25/11/2025).

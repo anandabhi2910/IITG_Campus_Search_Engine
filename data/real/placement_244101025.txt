@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Mainak Banik - SRID (SDE)
+BODY: Roll Number: 244101025. Name: Mainak Banik. CPI: 8.67. Company: SRID. CTC: 14 LPA. Base: 14 LPA. Placement Status: Phase 1. Role: SDE. Batch: M.Tech CSE 2024-2026. IIT Guwahati.

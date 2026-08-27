@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Axtria at IIT Guwahati
+BODY: Company: Axtria. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Anup Kulkarni (Roll: 244101005, CPI: 7.33, CTC: 14.5 LPA, Role: SDE); Harshvardhan Patil (Roll: 244101020, CPI: 7.56, CTC: 14.5 LPA, Role: SDE).

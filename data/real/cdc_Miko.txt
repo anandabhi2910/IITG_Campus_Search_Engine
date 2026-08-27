@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Miko
+BODY: Company: Miko. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 5. Roles and deadlines: Junior AI Audio & Speech Engineer (deadline: 06/12/2025); Junior AI Image Processing Engineer (deadline: 06/12/2025); Junior AI NLP Engineer (deadline: 06/12/2025); Junior Embedded Engineer (deadline: 06/12/2025); Junior Robotics Engineer (deadline: 06/12/2025).

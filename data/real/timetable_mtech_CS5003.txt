@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5003 Mathematics for Computer Science - MTech CSE Sem 1
+BODY: Course Code: CS5003. Course Name: Mathematics for Computer Science. Structure: 3-0-0-6 (Lecture-Tutorial-Practical-Credits). Instructor: P. Bhaduri. Class Slot: A1 (Monday 4:00-4:55, Tuesday 3:00-3:55, Wednesday 3:00-3:55, Thursday 2:00-2:55). Exam Slot: A. Classroom: 5403. Programme: M.Tech CSE 1st Semester. Semester: July-November 2026. IIT Guwahati.

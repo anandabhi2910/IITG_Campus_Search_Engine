@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS3106L Operating Systems Laboratory - BTech CSE Sem 5
+BODY: Course Code: CS3106L. Course Name: Operating Systems Laboratory. Structure: 0-0-4-4. Instructor: Satyajit Das. Class Slot: E1 (Tuesday) (E1 (Tuesday)). Exam Slot: ML2. Classroom: 5101. Programme: BTech CSE 5th Semester. Semester: July-November 2026. IIT Guwahati.

@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - KPI Partners
+BODY: Company: KPI Partners. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 1. Roles and deadlines: Data Engineer I (deadline: 08/05/2026).

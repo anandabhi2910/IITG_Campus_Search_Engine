@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2003 Formal Languages and Automata Theory - BTech CSE Sem 3
+BODY: Course Code: CS2003. Course Name: Formal Languages and Automata Theory. Structure: 3-0-0-6. Instructor: Diganta Goswami. Class Slot: E (Tuesday 7:55-8:50, Wednesday 9:00-9:55, Thursday 10:00-10:55). Exam Slot: E. Classroom: 5101. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5191 Virtual and Augmented Reality (Elective)
+BODY: Course Code: CS5191. Course Name: Virtual and Augmented Reality. Instructor: Samit Bhattacharya. Class Slot: D1 (Monday 2:00-2:55 (alt), Tuesday -, Wednesday -, Friday 3:00-3:55). Classroom: 5G4. Eligibility: all. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

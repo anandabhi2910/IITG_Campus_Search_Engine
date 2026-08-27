@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Ahbar Ahad Siddiqui - Nutanix (SDE)
+BODY: Roll Number: 244101002. Name: Ahbar Ahad Siddiqui. CPI: 8.44. Company: Nutanix. CTC: 57 LPA. Base: 26 LPA. Placement Status: Phase 1. Role: SDE. Batch: M.Tech CSE 2024-2026. IIT Guwahati.

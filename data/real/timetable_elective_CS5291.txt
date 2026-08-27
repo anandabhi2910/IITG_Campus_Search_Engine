@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5291 C-based VLSI Design (Elective)
+BODY: Course Code: CS5291. Course Name: C-based VLSI Design. Instructor: C Karfa. Class Slot: F1 (Monday 1:00-1:55, Tuesday 1:00-1:55, Thursday -, Friday 2:00-2:55). Classroom: 5405. Eligibility: 3rd year+. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

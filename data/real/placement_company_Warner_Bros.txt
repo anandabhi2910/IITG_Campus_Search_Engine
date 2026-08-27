@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Warner Bros at IIT Guwahati
+BODY: Company: Warner Bros. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Ishan Varshney (Roll: 244101022, CPI: 8.44, CTC: 25 LPA, Role: SDE); Mani Deep G (Roll: 244101027, CPI: 8.1, CTC: 25 LPA, Role: SDE).

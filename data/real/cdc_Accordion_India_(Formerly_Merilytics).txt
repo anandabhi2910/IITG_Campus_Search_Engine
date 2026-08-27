@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Accordion India (Formerly Merilytics)
+BODY: Company: Accordion India (Formerly Merilytics). Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 1. Roles and deadlines: Analyst 2, Data Engineer 2, Analyst 2 - Data Science (deadline: 04/11/2025).

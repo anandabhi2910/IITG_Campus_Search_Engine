@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS6398 Nature-inspired Computing (Elective)
+BODY: Course Code: CS6398. Course Name: Nature-inspired Computing. Instructor: S B Nair. Class Slot: B1 (Monday 3:00-3:55, Wednesday -, Thursday -, Friday 4:00-4:55). Classroom: 5101. Eligibility: all. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

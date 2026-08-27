@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Rahul - SRID (SDE)
+BODY: Roll Number: 244101035. Name: Rahul. CPI: 7.78. Company: SRID. CTC: 21 LPA. Base: 14.5 LPA. Placement Status: Phase 1. Role: SDE. Batch: M.Tech CSE 2024-2026. IIT Guwahati.

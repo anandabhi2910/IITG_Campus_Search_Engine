@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Dezerv at IIT Guwahati
+BODY: Company: Dezerv. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Naman Baveja (Roll: 244101029, CPI: 8.78, CTC: 22.5 LPA, Role: SDE).

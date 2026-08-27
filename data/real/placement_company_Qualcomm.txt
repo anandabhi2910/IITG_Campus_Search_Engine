@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Qualcomm at IIT Guwahati
+BODY: Company: Qualcomm. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 4. Students: Aditi Singh (Roll: 244101001, CPI: 8.89, CTC: 40 LPA, Role: SDE); Ashwin Iyengar (Roll: 244101007, CPI: 9.11, CTC: 40 LPA, Role: SDE); Rishi Kalasariya (Roll: 244101037, CPI: 9, CTC: 40 LPA, Role: SDE); Shivam Godayal (Roll: 244101052, CPI: , CTC: 40 LPA, Role: SDE).

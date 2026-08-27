@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS4101 IoT App Development (Elective)
+BODY: Course Code: CS4101. Course Name: IoT App Development. Instructor: Manas Khatua. Class Slot: F (Monday 12:00-12:55, Tuesday 12:00-12:55, Wednesday 12:00-12:55, Thursday -, Friday 12:00-12:55). Classroom: 5406. Eligibility: 3rd year+. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

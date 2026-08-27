@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Texas Instruments at IIT Guwahati
+BODY: Company: Texas Instruments. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Pulkit Mittal (Roll: 244101034, CPI: 9.44, CTC: 43 LPA, Role: SDE); Soumajit Roy (Roll: 244101057, CPI: 9.56, CTC: 43 LPA, Role: SDE).

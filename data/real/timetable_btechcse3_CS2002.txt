@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2002 Design and Analysis of Algorithms - BTech CSE Sem 3
+BODY: Course Code: CS2002. Course Name: Design and Analysis of Algorithms. Structure: 3-0-0-6. Instructor: Sriram Bhyravarapu. Class Slot: D (Monday 11:00-11:55, Tuesday -, Wednesday 7:55-8:50, Thursday 9:00-9:55, Friday 10:00-10:55). Exam Slot: D. Classroom: 5101. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

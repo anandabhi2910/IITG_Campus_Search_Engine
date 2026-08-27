@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: M.Tech CSE 2026 Placement Summary - IIT Guwahati
+BODY: M.Tech CSE 2024-2026 placement statistics at IIT Guwahati. Total students: 65. Total placed: 49. Average CTC: 31.18 LPA. Average Base: 16.87 LPA. Phase 1 placements: 29 students. Phase 2 placements: 10 students. PPO (Pre-Placement Offers): 7 students. Dropped out: 7 students. Foreign students: 1. Highest CTC: Microsoft 67.5 LPA (Shashank Aggarwal, AI/ML role). Companies: Qualcomm, Nutanix, Microsoft, Amazon, SAP, Oracle, Texas Instruments, Nvidia, Samsung R&D, Mathworks, Micron, Pega Systems, Walmart, Warner Bros, VISA, Quince, LTIMindtree, BEL, Axtria, Maruti Suzuki, CDOT, NESS, Dezerv, Wipro, Reliance, Accenture India, SRID, SRIN, SRIB.

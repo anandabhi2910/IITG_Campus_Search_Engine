@@ -1,0 +1,54 @@
+Here's the exact steps:
+
+Step 1 — Extract
+
+bash
+tar -xzf search_engine_ml.tar.gz
+cd search_engine
+
+Step 2 — Compile
+
+bash
+make
+# Should output: g++ -std=c++17 ...
+# Produces: ./search_engine binary
+
+Step 3 — Index your data
+
+bash
+./search_engine
+>> index data/real
+>> save index/campus.bin
+>> quit
+
+Takes ~5 seconds. Only do this once.
+
+Step 4 — Next time, just load and search
+
+bash
+./search_engine
+>> load index/campus.bin
+>> search nutanix
+>> search midsem exam date
+>> search brahmaputra wednesday lunch
+>> search microsoft AND placement
+>> search sunday AND NOT chicken
+>> quit
+
+If make fails — most likely missing g++ or C++17 support:
+
+bash
+# Ubuntu/Debian
+sudo apt install g++ build-essential
+
+# Then retry
+make
+
+If you're on Mac:
+
+bash
+# Install Xcode command line tools if not already
+xcode-select --install
+make
+
+That's it. The binary, all data files, and the saved index are all inside the tar. Once you run make successfully, the whole SDE project is live and demoable.

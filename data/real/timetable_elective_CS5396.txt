@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5396 Speech Processing (Elective)
+BODY: Course Code: CS5396. Course Name: Speech Processing. Instructor: P K Das. Class Slot: G1 (Wednesday 1:00-1:55, Thursday 1:00-1:55, Friday 1:00-1:55). Classroom: 5405. Eligibility: all. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

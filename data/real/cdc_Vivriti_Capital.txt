@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Vivriti Capital
+BODY: Company: Vivriti Capital. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 9. Roles and deadlines: VAM + Mobile App/Investor Onboarding - 6 months internship (deadline: 07/11/2025); Credityst & ESG - 6 months internship (deadline: 07/11/2025); Apollo - 6 months internship (deadline: 07/11/2025); DevSecOps - 6 months internship (deadline: 07/11/2025); R&D - 6 months internship (deadline: 07/11/2025); Core + Triton - 6 months internship (deadline: 07/11/2025); Zeus LMS - 6 months internship (deadline: 07/11/2025); Artemis - 6 months internship (deadline: 07/11/2025); Cloud Infra - 6 months internship (deadline: 07/11/2025).

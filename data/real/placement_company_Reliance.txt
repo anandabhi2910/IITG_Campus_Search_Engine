@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Reliance at IIT Guwahati
+BODY: Company: Reliance. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Pradeep Kumar Soni (Roll: 244101032, CPI: 8.67, CTC: 15 LPA, Role: SDE).

@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: EE1105H Digital and Analog Electronics (post-midsem) - BTech CSE Year 1
+BODY: Course Code: EE1105H. Course Name: Digital and Analog Electronics (post-midsem). Instructor: deb.sikdar. Class Slot: D (Monday 11:00-11:55, Tuesday -, Wednesday 7:55-8:50, Thursday 9:00-9:55, Friday 10:00-10:55). Exam Slot: F1. Classroom: 5405. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

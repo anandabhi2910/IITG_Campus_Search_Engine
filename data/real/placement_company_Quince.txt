@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Quince at IIT Guwahati
+BODY: Company: Quince. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Shwetank Pratap Tiwari (Roll: 244101055, CPI: 8.56, CTC: 39 LPA, Role: SDE).

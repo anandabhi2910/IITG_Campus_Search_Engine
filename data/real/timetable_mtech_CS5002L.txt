@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5002L Data Structures Lab - MTech CSE Sem 1
+BODY: Course Code: CS5002L. Course Name: Data Structures Lab. Structure: 0-2-2-6 (Lecture-Tutorial-Practical-Credits). Instructor: R Inkulu. Class Slot: B (Friday) (B (Friday)). Exam Slot: ML5. Classroom: 5101. Programme: M.Tech CSE 1st Semester. Semester: July-November 2026. IIT Guwahati.

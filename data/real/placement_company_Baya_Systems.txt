@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Baya Systems at IIT Guwahati
+BODY: Company: Baya Systems. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Anand Prakash Singh (Roll: 244101004, CPI: 9.22, CTC: 25 LPA, Role: SDE).

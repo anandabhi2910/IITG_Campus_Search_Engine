@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS6198 Internet Engineering and Operations (Elective)
+BODY: Course Code: CS6198. Course Name: Internet Engineering and Operations. Instructor: T Venkatesh. Class Slot: A1 (Monday 4:00-4:55, Tuesday 3:00-3:55, Wednesday 3:00-3:55, Thursday 2:00-2:55). Classroom: 5101. Eligibility: all. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

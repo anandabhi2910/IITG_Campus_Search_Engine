@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Kotak Mahindra Bank Ltd.
+BODY: Company: Kotak Mahindra Bank Ltd.. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 1. Roles and deadlines: Data Scientist and Data Analyst (deadline: 01/11/2025).

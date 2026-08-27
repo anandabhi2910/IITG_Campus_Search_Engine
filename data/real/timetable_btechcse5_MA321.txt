@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: MA321 Optimization - BTech CSE Sem 5
+BODY: Course Code: MA321. Course Name: Optimization. Structure: 3-0-0-6. Instructor: Mathematics Dept. Class Slot: D1 (Monday 2:00-2:55 (alt), Tuesday -, Wednesday -, Friday 3:00-3:55). Exam Slot: D1. Classroom: -. Programme: BTech CSE 5th Semester. Semester: July-November 2026. IIT Guwahati.

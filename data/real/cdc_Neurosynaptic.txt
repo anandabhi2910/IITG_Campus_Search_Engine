@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Neurosynaptic
+BODY: Company: Neurosynaptic. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 2. Roles and deadlines: Java Developer - 6 Months Intern (deadline: 25/11/2025); Software Engineer - Image Processing - 6 Months Intern (deadline: 25/11/2025).

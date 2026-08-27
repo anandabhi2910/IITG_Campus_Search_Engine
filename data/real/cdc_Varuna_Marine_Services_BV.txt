@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Varuna Marine Services BV
+BODY: Company: Varuna Marine Services BV. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 1. Roles and deadlines: Full Stack Developer (deadline: 08/04/2026).

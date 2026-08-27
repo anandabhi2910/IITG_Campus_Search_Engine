@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: MA1301H Single Variable Calculus (pre-midsem) - BTech CSE Year 1
+BODY: Course Code: MA1301H. Course Name: Single Variable Calculus (pre-midsem). Instructor: pati. Class Slot: B (Monday 9:00-9:55, Tuesday -, Wednesday -, Thursday -, Friday 7:55-8:50). Exam Slot: B1. Classroom: 5405. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

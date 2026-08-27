@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS3104L Computer Networks Laboratory - BTech CSE Sem 5
+BODY: Course Code: CS3104L. Course Name: Computer Networks Laboratory. Structure: 0-0-4-4. Instructor: Manas Khatua. Class Slot: - (-). Exam Slot: ML1. Classroom: -. Programme: BTech CSE 5th Semester. Semester: July-November 2026. IIT Guwahati.

@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2201 Computer Organization and Architecture - BTech CSE Sem 3
+BODY: Course Code: CS2201. Course Name: Computer Organization and Architecture. Structure: 3-0-0-6. Instructor: John Jose. Class Slot: C (Monday 10:00-10:55, Tuesday -, Wednesday -, Thursday 7:55-8:50, Friday 9:00-9:55). Exam Slot: C. Classroom: 5101. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2001 Optimization Methods - BTech CSE Sem 3
+BODY: Course Code: CS2001. Course Name: Optimization Methods. Structure: 3-0-0-6. Instructor: Sukanta Bhattacharjee. Class Slot: A (Monday 7:55-8:50, Tuesday 9:00-9:55, Wednesday 10:00-10:55, Thursday 11:00-11:55). Exam Slot: A. Classroom: 5G4. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

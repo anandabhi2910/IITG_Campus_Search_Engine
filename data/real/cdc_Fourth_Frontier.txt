@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Fourth Frontier
+BODY: Company: Fourth Frontier. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 1. Roles and deadlines: Backend Engineer (deadline: 28/03/2026).

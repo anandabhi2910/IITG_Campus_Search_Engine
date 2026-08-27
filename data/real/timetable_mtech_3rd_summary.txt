@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: M.Tech CSE 3rd Semester Timetable Summary
+BODY: M.Tech CSE 3rd Semester July-November 2026 IIT Guwahati. CS6902P Project I is the main course worth 24 credits. Students are engaged in thesis or project work under supervisor.

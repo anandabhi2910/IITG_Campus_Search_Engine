@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS3105 Operating Systems - BTech CSE Sem 5
+BODY: Course Code: CS3105. Course Name: Operating Systems. Structure: 3-0-0-6. Instructor: Satyajit Das. Class Slot: C1 (Monday 2:00-2:55, Tuesday 2:00-2:55, Wednesday -, Thursday -). Exam Slot: C1. Classroom: 5G4. Programme: BTech CSE 5th Semester. Semester: July-November 2026. IIT Guwahati.

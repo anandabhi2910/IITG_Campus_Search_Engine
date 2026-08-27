@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement Portal Summary - M.Tech CSE 2024 IIT Guwahati
+BODY: CDC Placement Portal IIT Guwahati. Companies allowed for M.Tech CSE 2024 batch. Total job listings: 237. Total unique companies: 146. Notable companies include: Amazon, Microsoft, Google, Qualcomm, NVIDIA, Nutanix, Goldman Sachs, SAP, Oracle, Mathworks, Pegasystems, Walmart, Warner Bros, Flipkart, Infosys, TCS, Deloitte, Accenture, Samsung, Micron, Texas Instruments, Analog Devices, D.E. Shaw, CDOT, CDAC, BEL, Mphasis, LTMindTree. Roles span Software Engineering, AI/ML, Data Science, Hardware, Management, Faculty positions. Deadlines range from October 2025 to July 2026.

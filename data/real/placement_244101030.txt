@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Paras Pandey - SAP (SDE)
+BODY: Roll Number: 244101030. Name: Paras Pandey. CPI: 7.56. Company: SAP. CTC: 41.5 LPA. Base: 18.5 LPA. Placement Status: Phase 1. Role: SDE. Batch: M.Tech CSE 2024-2026. IIT Guwahati.

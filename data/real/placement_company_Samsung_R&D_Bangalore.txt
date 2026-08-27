@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Samsung R&D Bangalore at IIT Guwahati
+BODY: Company: Samsung R&D Bangalore. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Priyanshu Srivastav (Roll: 244101033, CPI: 9.56, CTC: 48 LPA, Role: SDE); Rohit Jain (Roll: 244101043, CPI: 7.78, CTC: 28 LPA, Role: SDE).

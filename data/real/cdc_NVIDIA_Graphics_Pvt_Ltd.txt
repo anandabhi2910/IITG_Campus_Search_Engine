@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - NVIDIA Graphics Pvt Ltd
+BODY: Company: NVIDIA Graphics Pvt Ltd. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 2. Roles and deadlines: LLVM Compiler Intern - 6M Spring Internship (deadline: 23/11/2025); System Software Engineering Intern - 6M Spring Intern (deadline: 06/10/2025).

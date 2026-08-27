@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - SRID at IIT Guwahati
+BODY: Company: SRID. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 3. Students: Mainak Banik (Roll: 244101025, CPI: 8.67, CTC: 14 LPA, Role: SDE); Rahul (Roll: 244101035, CPI: 7.78, CTC: 21 LPA, Role: SDE); Sanyam Garg (Roll: 244101047, CPI: 7.67, CTC: 21.5 LPA, Role: SDE).

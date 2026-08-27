@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS6399 Mathematics for ML (Elective)
+BODY: Course Code: CS6399. Course Name: Mathematics for ML. Instructor: Ashish Anand. Class Slot: G (Wednesday 12:00-12:55, Thursday 12:00-12:55, Friday 12:00-12:55). Classroom: 5101. Eligibility: all. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

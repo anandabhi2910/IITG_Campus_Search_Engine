@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS2101L System Software Lab - BTech CSE Sem 3
+BODY: Course Code: CS2101L. Course Name: System Software Lab. Structure: 0-1-3-5. Instructor: Sanasam Ranbir Singh. Class Slot: A (Monday) (A (Monday)). Exam Slot: AL1. Classroom: 5101. Programme: BTech CSE 3rd Semester. Semester: July-November 2026. IIT Guwahati.

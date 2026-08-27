@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: EE1109L Basic Electronics Lab - BTech CSE Year 1
+BODY: Course Code: EE1109L. Course Name: Basic Electronics Lab. Instructor: sonkar. Class Slot: FRI 2-5PM (FRI 2-5PM). Exam Slot: -. Classroom: -. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

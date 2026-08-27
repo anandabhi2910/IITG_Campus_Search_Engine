@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Qualcomm
+BODY: Company: Qualcomm. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 2. Roles and deadlines: Engineer - Hardware (deadline: 25/10/2025); Engineer - SW (deadline: 25/10/2025).

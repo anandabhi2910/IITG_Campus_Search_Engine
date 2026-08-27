@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - SRIN at IIT Guwahati
+BODY: Company: SRIN. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 1. Students: Devansh Upadhyay (Roll: 244101015, CPI: 8.78, CTC: 28.5 LPA, Role: SDE).

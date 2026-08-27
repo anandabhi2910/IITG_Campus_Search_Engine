@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS5393 Generative AI for Computer Vision (Elective)
+BODY: Course Code: CS5393. Course Name: Generative AI for Computer Vision. Instructor: Arijit Sur. Class Slot: E (Tuesday 7:55-8:50, Wednesday 9:00-9:55, Thursday 10:00-10:55). Classroom: 5G4. Eligibility: all. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

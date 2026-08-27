@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS1116H Introduction to Computer Systems (pre-midsem) - BTech CSE Year 1
+BODY: Course Code: CS1116H. Course Name: Introduction to Computer Systems (pre-midsem). Instructor: T Venkatesh. Class Slot: C (Monday 10:00-10:55, Tuesday -, Wednesday -, Thursday 7:55-8:50, Friday 9:00-9:55). Exam Slot: C1. Classroom: 5405. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

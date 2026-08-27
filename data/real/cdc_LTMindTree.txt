@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - LTMindTree
+BODY: Company: LTMindTree. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 10. Roles and deadlines: Data Engineer (deadline: 30/11/2025); Research Engineer (deadline: 30/11/2025); AI Engineer (deadline: 30/11/2025); Interactive AI Engineer (deadline: 30/11/2025); Retail & Consumer Packaged Goods AI Engineer (deadline: 30/11/2025); SAP AI & Cloud Engineer (deadline: 30/11/2025); Solutions Architect (deadline: 30/11/2025); AI System/Solution Developer (deadline: 30/11/2025); Research Engineer (AI Research) (deadline: 30/11/2025); Business Analyst / Domain Consultant (deadline: 30/11/2025).

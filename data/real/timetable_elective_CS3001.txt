@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS3001 OOPs and Data Structures (Elective)
+BODY: Course Code: CS3001. Course Name: OOPs and Data Structures. Instructor: V Saradhi. Class Slot: F1 (Monday 1:00-1:55, Tuesday 1:00-1:55, Thursday -, Friday 2:00-2:55). Classroom: 5406. Eligibility: 3rd year+. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

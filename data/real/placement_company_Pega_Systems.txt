@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Pega Systems at IIT Guwahati
+BODY: Company: Pega Systems. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Rohan Jainarayan Dobarkar (Roll: 244101040, CPI: 7.44, CTC: 32 LPA, Role: SDE); Vasu Kara (Roll: 244101064, CPI: , CTC: 32 LPA, Role: SDE).

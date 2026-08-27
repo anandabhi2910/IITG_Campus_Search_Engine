@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS1114L Programming Lab - BTech CSE Year 1
+BODY: Course Code: CS1114L. Course Name: Programming Lab. Instructor: Deepanjan Kesh. Class Slot: MON 2-5PM (MON 2-5PM). Exam Slot: -. Classroom: 5G4. Programme: BTech CSE 1st Year 1st Semester. Semester: July-November 2026. IIT Guwahati.

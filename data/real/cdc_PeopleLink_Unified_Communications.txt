@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - PeopleLink Unified Communications
+BODY: Company: PeopleLink Unified Communications. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 2. Roles and deadlines: Hardware R&D Engineer (deadline: 23/07/2026); AI Full-Stack Product Engineer (InstaVC) (deadline: 22/07/2026).

@@ -1,0 +1,4 @@
+SOURCE: CDC
+DATE: 2026-07-24
+TITLE: CDC Placement - Auro Data
+BODY: Company: Auro Data. Allowed for M.Tech CSE 2024 batch at IIT Guwahati CDC placement portal. Number of roles: 8. Roles and deadlines: UX/UI Designer (deadline: 24/11/2025); Business Development Manager (deadline: 24/11/2025); Business Analyst (deadline: 24/11/2025); Product Manager (deadline: 24/11/2025); AI/ML Software Engineer (deadline: 24/11/2025); Full Stack Developer (deadline: 24/11/2025); Frontend Developer (deadline: 24/11/2025); Backend Developer (deadline: 24/11/2025).

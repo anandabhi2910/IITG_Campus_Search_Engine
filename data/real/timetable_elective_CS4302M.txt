@@ -1,0 +1,4 @@
+SOURCE: TIMETABLE
+DATE: 2026-07-23
+TITLE: CS4302M Machine Intelligence (Elective)
+BODY: Course Code: CS4302M. Course Name: Machine Intelligence. Instructor: Amit Awekar. Class Slot: A (Monday 7:55-8:50, Tuesday 9:00-9:55, Wednesday 10:00-10:55, Thursday 11:00-11:55). Classroom: 5101. Eligibility: BTech 7th sem. Type: Departmental Elective or Open Elective. Semester: July-November 2026. IIT Guwahati CSE Department.

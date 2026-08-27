@@ -1,0 +1,4 @@
+SOURCE: PLACEMENT
+DATE: 2026-07-24
+TITLE: Placement - Maruti Suzuki at IIT Guwahati
+BODY: Company: Maruti Suzuki. Recruited from M.Tech CSE 2024-2026 batch at IIT Guwahati. Number of students placed: 2. Students: Lucky Gupta (Roll: 244101024, CPI: 7.2, CTC: 13.45 LPA, Role: SDE); Saireddy Shreyas (Roll: 244101046, CPI: 8.44, CTC: 13.45 LPA, Role: SDE).
